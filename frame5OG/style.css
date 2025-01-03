@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: center;
     width: 100%;
+    font-family: "Arial", Helvetica;
   }
   body{
     background-color: #161718;
@@ -38,7 +39,7 @@
     position: absolute;
     top: 33px;
     left: 0;
-    font-family: "Inter-Medium", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 500;
     color: #ffffff;
     font-size: 31px;
@@ -59,7 +60,7 @@
     position: absolute;
     top: 78px;
     left: 0;
-    font-family: "Inter-Black", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 900;
     color: #ffffff;
     font-size: 70px;
@@ -80,7 +81,7 @@
     position: absolute;
     top: 29px;
     left: 0;
-    font-family: "Inter-Medium", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 500;
     color: #ffffff;
     font-size: 22px;
@@ -115,7 +116,7 @@
     position: absolute;
     top: 16px;
     left: 35px;
-    font-family: "Inter-Medium", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 500;
     color: #1c1b1b1f;
     font-size: 18px;
@@ -137,7 +138,7 @@
     width: 627px;
     top: 79px;
     left: 0;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 18px;
@@ -167,7 +168,7 @@
     position: absolute;
     top: 199px;
     left: 501px;
-    font-family: "VCR OSD Mono-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 87px;
@@ -180,7 +181,7 @@
     position: absolute;
     top: 310px;
     left: 617px;
-    font-family: "VCR OSD Mono-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 87px;
@@ -201,7 +202,7 @@
     position: absolute;
     top: 624px;
     left: 121px;
-    font-family: "Inter-Bold", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 700;
     color: #ffffff;
     font-size: 54px;
@@ -214,7 +215,7 @@
     width: 1260px;
     top: 714px;
     left: 121px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 24px;
@@ -391,7 +392,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    font-family: "Inter-Black", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 900;
     color: #ffffff;
     font-size: 50px;
@@ -404,7 +405,7 @@
     width: 517px;
     top: 75px;
     left: 0;
-    font-family: "Inter-Medium", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 500;
     color: #ffffff;
     font-size: 18px;
@@ -452,7 +453,7 @@
     position: absolute;
     top: 121px;
     left: 37px;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 14px;
@@ -480,7 +481,7 @@
     position: absolute;
     top: 21px;
     left: 80px;
-    font-family: "VCR OSD Mono-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 18px;
@@ -492,7 +493,7 @@
   .frame .text-wrapper-11 {
     top: 20px;
     left: 1235px;
-    font-family: "VCR OSD Mono-Regular", Helvetica;
+    font-family: "Roboto Condensed", Helvetica;
     font-size: 18px;
     position: absolute;
     font-weight: 400;
@@ -539,7 +540,7 @@
     position: absolute;
     top: -1px;
     left: 0;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 20px;
@@ -588,7 +589,7 @@
     width: 107px;
     top: 13px;
     left: 0;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-weight: 400;
     color: #ffffff;
     font-size: 26px;
@@ -680,7 +681,7 @@
     width: 107px;
     top: 2px;
     left: 0;
-    font-family: "Inter-Regular", Helvetica;
+    font-family: "Arial", Helvetica;
     font-size: 26px;
     position: absolute;
     font-weight: 400;
